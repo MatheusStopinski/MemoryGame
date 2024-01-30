@@ -2,4 +2,5 @@
 
 <h3 align="center"> <a href="https://matheusstopinski.github.io/MemoryGame/">Click here !✅👁‍🗨</a>
  <br> <br> <br>
- <img align="center" src="https://github.com/MatheusStopinski/MasterOfInterfaces/blob/Site_Indigena/game.png" alt="Game">
+ <img align="center" src="https://i.imgur.com/0PDT9Ed.png" alt="Game">
+ <img align="center" src="https://i.imgur.com/K5ldeC7.png" alt="Game">
